@@ -25,7 +25,7 @@ title: Cats in Pants, an exhibit
 tagline: Felines adopting human dress and mannerisms
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A CollectionBuilder-Sheets exhibit developed for LIB350M featuring domesticated cats doing sillu things."
+description: "A CollectionBuilder-Sheets exhibit developed for LIB350M featuring domesticated cats doing silly things."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Franny Gaede
 
@@ -62,7 +62,7 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQmoAkNguHOSetd2HQ
 # (this is done automatically by gh-pages build)
 #
 # dev mode turns on ability to change metadata
-development-mode: true
+development-mode: false
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
